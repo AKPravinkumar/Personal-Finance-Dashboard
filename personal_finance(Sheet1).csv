@@ -1,0 +1,24 @@
+Date,Category,Description,Amount,Payment_Mode
+2025-12-01,Food,Breakfast,80,Cash
+2025-12-01,Travel,Bus,40,Cash
+2025-12-02,Food,Lunch,120,UPI
+2025-12-02,Shopping,Notebook,150,UPI
+2025-12-03,Food,Dinner,180,Cash
+2025-12-03,Entertainment,Movie,250,Card
+2025-12-04,Travel,Auto,90,Cash
+2025-12-04,Food,Snacks,60,Cash
+2025-12-05,Rent,Hostel Rent,4000,UPI
+2025-12-06,Education,Books,600,Card
+2025-12-07,Health,Medicine,220,Cash
+2025-12-08,Food,Lunch,130,UPI
+2025-12-09,Travel,Bus,40,Cash
+2025-12-10,Shopping,Clothes,1200,Card
+2025-12-11,Food,Dinner,200,Cash
+2025-12-12,Entertainment,OTT Subscription,199,UPI
+2025-12-13,Food,Snacks,70,Cash
+2025-12-13,Travel,Train,350,UPI
+2025-12-14,Education,Online Course,999,Card
+2025-12-15,Food,Lunch,140,UPI
+,,,,
+,,,,
+,,,,
